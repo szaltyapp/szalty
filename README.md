@@ -1,0 +1,2 @@
+# szalty
+Szalty App
