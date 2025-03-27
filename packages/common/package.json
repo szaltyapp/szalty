@@ -6,5 +6,8 @@
   "scripts": {
     "build": "tsc",
     "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^11.5.0"
   }
 }
