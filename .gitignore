@@ -41,3 +41,7 @@ web-build/
 .idea
 .vscode
 *.sw?
+
+# Environment variables
+.env
+.env.*
